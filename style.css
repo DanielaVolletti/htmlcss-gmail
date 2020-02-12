@@ -1,0 +1,87 @@
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+#centralizzo-corpo-testo {
+  width: 40%;
+  margin: auto;
+}
+
+header {
+  border-bottom: solid 2px grey;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#dimensioni-logo {
+  width: 100px;
+  height: 100%;
+  vertical-align: middle;
+}
+
+#logo-testo {
+  font-size: 30px;
+  color: white;
+}
+
+
+#barra-ricerca {
+  border-bottom: solid 2px grey;
+  height: 100px;
+  margin-bottom: 10px
+}
+
+
+#messaggi-non-letti {
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+#formattazione-numero-30 {
+  border-radius: 30px;
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+
+#lista-email {
+  border-bottom: solid 2px grey;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.bordo-email {
+  border-bottom: solid 2px black;
+  background-color: #e6e1e1de;
+}
+
+#colore-bordo-email {
+  border-bottom: solid 2px black;
+  background-color: white;
+}
+
+.colore-anteprima-email {
+  color: grey;
+}
+
+footer {
+  height: 30px;
+}
+
+#allineamento-piè-di-pagina {
+  text-align: center;
+  color: white;
+}
+
+#formattazione-gmail {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#piè-di-pagina-corsivo {
+  font-style: oblique;
+  font-weight: bold;
+}
